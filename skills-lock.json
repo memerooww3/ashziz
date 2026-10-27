@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "3dmodel": {
+      "source": "fletcherholt/3dmodel-skill",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "94a010fd66924177138c16aad2ce67c6690a58bf0d11cd669887e4c9f830fbdc"
+    }
+  }
+}

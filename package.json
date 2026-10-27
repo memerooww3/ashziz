@@ -1,0 +1,24 @@
+{
+  "name": "ashziz",
+  "version": "1.0.0",
+  "description": "ASHZIZ - Interactive 3D Digital Production Studio",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "vite",
+    "api": "node server/index.js"
+  },
+  "devDependencies": {
+    "vite": "^6.2.0"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.9",
+    "gsap": "^3.12.5",
+    "postprocessing": "^6.36.4",
+    "resend": "^6.34.1",
+    "three": "^0.170.0"
+  }
+}

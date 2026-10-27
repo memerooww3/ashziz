@@ -1,0 +1,907 @@
+{
+  "privacy": {
+    "label": "Privacy",
+    "title": "Privacy Policy",
+    "updated": "2026-09-06",
+    "intro": [
+      "This Privacy Policy explains how ASHZIZ (\"we\", \"us\", or \"our\") collects, uses, shares, and protects your information when you visit ashziz.com, contact us, request a quote or demo, agree a project, or use our dashboards and support."
+    ],
+    "sections": [
+      {
+        "title": "Who We Are",
+        "body": [
+          "ASHZIZ is a software and technology services company that designs and builds websites, mobile apps, custom software, and AI automation for businesses. ASHZIZ is the data controller responsible for the information described in this policy."
+        ],
+        "items": [
+          "Company: ASHZIZ",
+          "Address: 48 Bad' Bint Sa'oud Street, Al Mushrif, Abu Dhabi, United Arab Emirates",
+          "Email: ash.zizi67@gmail.com",
+          "WhatsApp only: +91 96106 00593",
+          "Website: https://ashziz.com"
+        ]
+      },
+      {
+        "title": "Information We Collect",
+        "body": [
+          "We collect information you choose to share when you contact us, discuss a quote, or use an available account or support service, along with limited technical information collected when browsing. When you send a project brief, the name, phone number, service, planning budget and description you entered are submitted to us and stored against that enquiry, and the optional email address if you provided one. If you also choose to share the brief on WhatsApp, that message is governed by WhatsApp's own terms."
+        ],
+        "items": [
+          "Enquiry details: name, WhatsApp number, selected service, planning budget, optional email and project description.",
+          "Information voluntarily shared during a project, including company details, files and support messages.",
+          "Project, invoice and payment references used to administer an agreed engagement.",
+          "Project records held in your account: your agreed scope, dates, invoices, payments, files, review responses and support requests.",
+          "Technical usage information and cookies where analytics or advertising tools are enabled."
+        ]
+      },
+      {
+        "title": "Cookies, Analytics, And Advertising",
+        "body": [
+          "Analytics and advertising tools may collect usage information under their own privacy policies. Google Analytics measures website usage and Google Ads measures advertising activity. When a project brief is sent, we record it as a conversion so we can tell which advertising is working. That conversion carries no name, phone number, email address, message content or amount. Enquiry names, phone numbers, emails, message content, budgets, invoice and payment details are never placed in analytics events."
+        ],
+        "items": [
+          "Google Analytics (GA4) for website usage measurement where enabled.",
+          "Google Ads base measurement where enabled; a WhatsApp link click is separate from a submitted lead.",
+          "You can control cookies through your browser settings and personalised advertising through Google Ads Settings."
+        ]
+      },
+      {
+        "title": "How We Use Information",
+        "body": [
+          "We use the information we collect to operate our business and provide our services to you."
+        ],
+        "items": [
+          "Respond to enquiries and prepare quotes and proposals",
+          "Deliver products, manage projects, and provide customer support",
+          "Process payments and issue invoices",
+          "Improve our website, services, and advertising",
+          "Send service updates and, where permitted, relevant marketing messages"
+        ]
+      },
+      {
+        "title": "How We Share Information",
+        "body": [
+          "We do not sell your personal information. We share it only with trusted service providers and where required by law."
+        ],
+        "items": [
+          "Payment gateways (such as Razorpay) to process payments securely",
+          "Hosting, infrastructure, and communication providers that help us run our services",
+          "Analytics and advertising partners (such as Google) for measurement and advertising",
+          "Government, regulatory, or legal authorities when required to comply with applicable law"
+        ]
+      },
+      {
+        "title": "Payments",
+        "body": [
+          "Online payments are processed by third-party payment gateways. We do not collect or store your full card, UPI, or bank credentials on our servers; we retain only the payment references needed for orders, invoices, and support."
+        ],
+        "items": [
+          "Card and bank details are handled directly by the payment provider",
+          "Payment providers process your data under their own privacy and security policies"
+        ]
+      },
+      {
+        "title": "Data Retention",
+        "body": [
+          "We keep personal information only for as long as needed to fulfil the purposes described in this policy, including legal, accounting, tax, and security obligations, after which it is deleted or anonymised."
+        ],
+        "items": [
+          "Invoices and order records may be retained to meet legal and tax requirements",
+          "Lead and project data is retained while we work together and for a reasonable period afterwards"
+        ]
+      },
+      {
+        "title": "Data Security",
+        "body": [
+          "We use reasonable technical and organisational measures to protect your information against unauthorised access, loss, misuse, or alteration. No method of transmission or storage is completely secure, but we work continuously to safeguard your data."
+        ],
+        "items": [
+          "Access to personal data is limited to authorised personnel",
+          "Sensitive transactions are handled over encrypted connections"
+        ]
+      },
+      {
+        "title": "Your Rights And Choices",
+        "body": [
+          "You can request access to, correction of, or deletion of your personal information, and you can opt out of marketing communications at any time."
+        ],
+        "items": [
+          "Request a copy, correction, or deletion of your data by emailing ash.zizi67@gmail.com",
+          "Unsubscribe from marketing messages using the provided opt-out or by contacting us",
+          "Some records may be retained where required for invoices, security, or legal compliance"
+        ]
+      },
+      {
+        "title": "Children's Privacy",
+        "body": [
+          "Our website and services are intended for businesses and individuals aged 18 and above. We do not knowingly collect personal information from children. If you believe a child has provided us information, please contact us so we can remove it."
+        ],
+        "items": []
+      },
+      {
+        "title": "Third-Party Links",
+        "body": [
+          "Our website may link to third-party websites or services that we do not control. This policy does not apply to those sites, and we encourage you to review their own privacy policies."
+        ],
+        "items": []
+      },
+      {
+        "title": "Grievance Officer And Contact",
+        "body": [
+          "In accordance with the Information Technology Act, 2000 and the rules made thereunder, you can contact our Grievance Officer with any questions, concerns, or complaints about this policy or your personal data."
+        ],
+        "items": [
+          "Grievance Officer: Compliance & Grievance Officer",
+          "Email: ash.zizi67@gmail.com",
+          "Address: 48 Bad' Bint Sa'oud Street, Al Mushrif, Abu Dhabi, United Arab Emirates",
+          "We aim to acknowledge and resolve grievances within the timelines required by applicable law"
+        ]
+      },
+      {
+        "title": "Governing Law",
+        "body": [
+          "This Privacy Policy is governed by the laws of India, and any disputes are subject to the exclusive jurisdiction of the courts of Mumbai, Maharashtra."
+        ],
+        "items": []
+      },
+      {
+        "title": "Changes To This Policy",
+        "body": [
+          "We may update this Privacy Policy from time to time to reflect changes in our practices or legal requirements. The latest version will always be available on this page with its effective date."
+        ],
+        "items": []
+      }
+    ]
+  },
+  "terms": {
+    "label": "Terms",
+    "title": "Terms & Conditions",
+    "updated": "2026-09-06",
+    "intro": [
+      "These Terms and Conditions govern your use of the website at https://ashziz.com and any software or technology services you engage us to provide. The website and services are operated by ASHZIZ, a private limited company registered in India (\"ASHZIZ\", \"we\", \"us\", \"our\"). We build websites, mobile apps, web apps, SaaS products, desktop software, AI and WhatsApp automation and related software services. By browsing this website, requesting a quote, accepting a proposal, or paying a booking amount, you agree to these terms. Please read them together with our Privacy Policy, Refund Policy, and Cancellation Policy, which form part of the same overall agreement between us."
+    ],
+    "sections": [
+      {
+        "title": "Acceptance of These Terms",
+        "body": [
+          "By accessing this website, requesting a quote, accepting a written proposal from us, or making any payment toward a project, you confirm that you have read, understood, and agreed to be bound by these Terms and Conditions. If you are agreeing on behalf of a company, firm, or other organisation, you confirm that you are authorised to bind that entity. If you do not agree with any part of these terms, please do not use this website or engage our services."
+        ],
+        "items": [
+          "These terms apply to all visitors, prospective clients, and clients of ASHZIZ.",
+          "Where a signed proposal or separate written agreement exists for a project, that document and these terms are read together; if there is a direct conflict, the signed proposal governs for that project.",
+          "Our Privacy Policy, Refund Policy, and Cancellation Policy are incorporated into these terms by reference."
+        ]
+      },
+      {
+        "title": "Definitions",
+        "body": [
+          "To keep these terms clear and consistent, the following words have the meanings set out below wherever they appear."
+        ],
+        "items": [
+          "Client: any person or organisation that requests, accepts, or pays for our services.",
+          "Services: the software and technology services we provide, including websites, mobile apps, web apps, SaaS products, desktop software, AI and WhatsApp automation and related work.",
+          "Proposal: the written quote or scope document we send for a project, which sets out the inclusions, deliverables, timeline, revisions, milestone payments, and price.",
+          "Deliverables: the specific files, code, designs, accounts, and other work products we agree to produce and hand over under a proposal.",
+          "Handover: the point at which, on receipt of final payment, we transfer ownership, source files, code, and account credentials to the client.",
+          "On-Time Promise: our written delivery guarantee described in section 8."
+        ]
+      },
+      {
+        "title": "About ASHZIZ and Our Services",
+        "body": [
+          "ASHZIZ is a registered private limited company in India providing software and technology services. Our registered address is ASHZIZ Studio. We can be reached at ash.zizi67@gmail.com or on +91 96106 00593 (WhatsApp). We deliver work on a project basis, scoped through a written proposal, so that you always know what is included, what it costs, and when it will be delivered."
+        ],
+        "items": [
+          "Websites, mobile apps, web apps, and desktop software.",
+          "SaaS products and AI, WhatsApp, and other automation."
+        ]
+      },
+      {
+        "title": "How a Project Is Scoped",
+        "body": [
+          "Start with an enquiry and planning budget, then discuss the project with us on WhatsApp. We confirm the scope, price, advance, milestones and dates in writing. After the advance is received and verified, your account is linked to the project workspace, where invoices, payments and the agreed timeline can be followed through delivery and settlement. Every project begins with a written proposal or quote. The proposal is the single source of truth for what we will do: it defines the inclusions, the deliverables, the timeline, the number of revision rounds, the milestone payment split, and the handover. Anything not listed in the proposal is treated as out of scope and may require a separate quote. We encourage you to read the proposal carefully and to raise any questions before you accept it, because the agreed scope is what the On-Time Promise and the project price are based on."
+        ],
+        "items": [
+          "Inclusions and deliverables are listed explicitly in the proposal.",
+          "Items outside the agreed scope are quoted separately as a change request.",
+          "Revision rounds are defined in the proposal; additional rounds beyond that are chargeable.",
+          "The proposal also records the agreed delivery date and the milestone payment structure."
+        ]
+      },
+      {
+        "title": "Written Quotes and 18% GST",
+        "body": [
+          "The website does not publish package prices or rate cards. Your project price is confirmed privately in the written proposal after a discussion of your requirements and budget. Quoted amounts are in Indian rupees (INR) and exclusive of Goods and Services Tax. GST at 18% is added on the final invoice, and we issue a proper GST invoice for every payment. A quote is valid for the period stated in the proposal; after that period, the quote may be re-confirmed."
+        ],
+        "items": [
+          "Your accepted written proposal records the project price, advance and milestone schedule.",
+          "All quoted amounts are in INR and exclusive of 18% GST.",
+          "GST at 18% is applied on the final invoice, and a GST invoice is issued.",
+          "GSTIN: .",
+          "Third-party costs, such as domains, hosting and paid subscriptions, are additional as described in the third-party services section."
+        ]
+      },
+      {
+        "title": "Payments, Milestones, and Late or Unpaid Dues",
+        "body": [
+          "Payments are accepted by UPI, bank transfer (NEFT or IMPS), and cards, processed securely through a third-party payment gateway (Razorpay). We do not store full card, UPI, or bank credentials on our servers; we keep only payment references for accounting and support. Most projects are split into a booking amount to start, one or more progress payments tied to milestones, and a final payment before handover. The exact split is written into your proposal. If a due payment is not cleared within the agreed time, we may pause work on the project until the outstanding amount (including any applicable GST) is settled, and any agreed delivery date is extended for the duration of that pause. Refunds and cancellations are governed by our separate Refund Policy and Cancellation Policy."
+        ],
+        "items": [
+          "Accepted methods: UPI, NEFT or IMPS bank transfer, and cards via Razorpay.",
+          "We retain payment references only, not full card, UPI, or bank credentials.",
+          "Typical structure: booking amount, one or more progress payments, then final payment before handover.",
+          "Unpaid or late dues may cause work to pause until cleared, and the timeline extends accordingly.",
+          "Refunds and cancellations are governed by our separate Refund Policy and Cancellation Policy."
+        ]
+      },
+      {
+        "title": "Client Responsibilities",
+        "body": [
+          "A project runs smoothly when both sides do their part. You agree to provide accurate, complete, and lawful content, brand assets, and any access or credentials we need, and to give timely feedback and approvals at each stage. You are responsible for ensuring that all content, logos, images, text, and other material you supply are legally usable by you and by us for the project, meaning you own them or hold the necessary licences and permissions. Delays in providing content, assets, access, or approvals will pause the project clock for that period, as described in the On-Time Promise in section 8."
+        ],
+        "items": [
+          "Provide accurate content, brand assets, and required access in a usable format.",
+          "Give feedback and approvals within the timeframes agreed in the proposal.",
+          "Warrant that all client-provided material is owned by you or properly licensed and does not infringe any third-party rights.",
+          "Nominate a single point of contact wherever possible to keep decisions clear and timely."
+        ]
+      },
+      {
+        "title": "Project Timelines and the On-Time Promise",
+        "body": [
+          "Where a project includes our On-Time Promise, we agree a fixed delivery date in writing in the proposal. If we miss that agreed date for reasons within our control, 50% of the payment is waived. The promise applies to the agreed scope only. If the client delays required content, assets, access, or approvals, the clock pauses for the duration of that delay, and the agreed date moves out by the same period. The On-Time Promise is a delivery guarantee, not a refund mechanism: refunds, where applicable, are governed separately by our Refund Policy."
+        ],
+        "items": [
+          "The delivery date is fixed in writing in the proposal.",
+          "If we are late on the agreed scope, 50% of the payment is waived.",
+          "The clock pauses during any client-caused delay or while a due payment is unpaid.",
+          "Change requests that expand the scope reset or extend the agreed date by mutual written agreement.",
+          "The On-Time Promise is a delivery guarantee, not a refund mechanism."
+        ]
+      },
+      {
+        "title": "Revisions and Approvals",
+        "body": [
+          "Each project includes a defined number of revision rounds, set out in the proposal. Revisions are intended to refine the agreed scope, not to introduce new features or a different direction; new or expanded requirements are handled as separate change requests and quoted accordingly. We ask for your review and written approval at agreed checkpoints. Once you approve a stage, we proceed on that basis, and reopening an approved stage later may affect the timeline and cost."
+        ],
+        "items": [
+          "The number of revision rounds is stated in the proposal.",
+          "Revisions cover the agreed scope; new features are quoted as change requests.",
+          "Written approval at each checkpoint allows the project to move forward.",
+          "Additional revision rounds beyond the included number are chargeable."
+        ]
+      },
+      {
+        "title": "Intellectual Property and Ownership Transfer",
+        "body": [
+          "Until final payment is received, all work product, code, and designs remain our property, and any access you are given before then is for review purposes only. On receipt of final payment, we hand over full ownership of the deliverables, including the source files and code, along with all relevant account credentials. We do not operate any lock-in: the project is yours to host, run, and modify as you wish. We may retain a copy of the work for our records, and we may reference completed work in our portfolio at a general level unless you have asked us in writing to keep it confidential under section 12."
+        ],
+        "items": [
+          "Before final payment, the work product remains owned by ASHZIZ.",
+          "On final payment, full ownership, source files, code, and credentials transfer to you.",
+          "No lock-in: you are free to host and modify your project independently.",
+          "Pre-existing tools, libraries, and frameworks we use remain under their own licences (see section 11)."
+        ]
+      },
+      {
+        "title": "Third-Party Services, Licences, and Subscriptions",
+        "body": [
+          "Many projects rely on third-party services such as hosting, domains, payment gateways, mapping, messaging, email, analytics, and software libraries. These services are provided by their own vendors under their own terms, and their use, availability, and pricing are outside our control. Any ongoing subscription or usage costs (for example hosting, domain renewal, gateway fees, or paid APIs) are your responsibility after handover unless your proposal states otherwise. We will tell you which third-party services your project depends on so you can plan for them."
+        ],
+        "items": [
+          "Third-party services remain subject to their own terms and pricing.",
+          "Ongoing subscription and usage costs are the client's responsibility after handover, unless the proposal says otherwise.",
+          "We are not liable for outages, changes, or discontinuation of third-party services.",
+          "Open-source and licensed components remain under their respective licences."
+        ]
+      },
+      {
+        "title": "Confidentiality and NDAs",
+        "body": [
+          "We treat the non-public information you share with us, such as business plans, customer data, credentials, and unreleased product details, as confidential, and we use it only to deliver your project. We expect the same care from you regarding our non-public information, including proposals, pricing, and methods. If your project needs a formal non-disclosure agreement, we are happy to sign a reasonable NDA, and where signed it operates alongside these terms. Confidentiality does not apply to information that is already public, lawfully obtained from another source, or required to be disclosed by law or a competent authority."
+        ],
+        "items": [
+          "Both sides keep each other's non-public information confidential.",
+          "We will sign a reasonable NDA on request where a project requires it.",
+          "Confidentiality obligations survive the end of the project.",
+          "Standard exceptions apply for public, independently obtained, or legally required disclosures."
+        ]
+      },
+      {
+        "title": "Warranties, Post-Launch Support, and Maintenance",
+        "body": [
+          "We provide our services with reasonable skill and care, and we deliver against the scope written in your proposal. After launch, we include a post-launch support window (stated in the proposal) during which we fix genuine defects in the delivered scope at no extra charge. This support window does not cover new features, changes to third-party services, content edits, or issues caused by changes made by you or others after handover. Beyond the included window, we offer optional maintenance plans, which are quoted and agreed separately. Except as expressly stated here and in your proposal, the services are provided without any further warranties, to the extent permitted by law."
+        ],
+        "items": [
+          "Work is delivered with reasonable skill and care against the agreed scope.",
+          "A post-launch support window for genuine defects is included as stated in the proposal.",
+          "Support does not cover new features, third-party changes, or modifications made after handover.",
+          "Optional maintenance plans are available and quoted separately."
+        ]
+      },
+      {
+        "title": "Limitation of Liability",
+        "body": [
+          "To the maximum extent permitted by Indian law, our total liability arising out of or in connection with any project, whether in contract, tort, or otherwise, will not exceed the total fees actually paid to us by you for that specific project. We are not liable for indirect, incidental, special, or consequential losses, including loss of profit, revenue, data, goodwill, or business opportunity. Nothing in these terms limits any liability that cannot be limited or excluded under applicable law. We are not responsible for losses arising from third-party services, from content or instructions you provide, or from changes made to the work after handover."
+        ],
+        "items": [
+          "Our total liability for a project is capped at the fees paid to us for that project.",
+          "We exclude indirect and consequential losses to the extent the law allows.",
+          "Liabilities that cannot lawfully be excluded are not affected.",
+          "We are not liable for third-party services or for client-supplied content and instructions."
+        ]
+      },
+      {
+        "title": "Indemnification",
+        "body": [
+          "You agree to indemnify and hold ASHZIZ, its directors, and its team harmless from any claims, damages, losses, or expenses (including reasonable legal costs) arising from your breach of these terms, from content or materials you provide to us, or from your use of the deliverables after handover. This includes any claim that content, brand assets, or other material you supplied infringes a third party's intellectual property or other rights. We will notify you promptly of any such claim and give you a reasonable opportunity to handle it."
+        ],
+        "items": [
+          "You cover claims arising from your breach of these terms.",
+          "You cover claims arising from content or assets you supplied, including infringement claims.",
+          "You cover claims arising from your use of the deliverables after handover.",
+          "We will give you prompt notice and a reasonable chance to respond to any claim."
+        ]
+      },
+      {
+        "title": "Acceptable Use and Client Conduct",
+        "body": [
+          "You agree to use this website and our services lawfully and in good faith. You must not use our work or our platforms to break the law, to infringe the rights of others, to send spam or unsolicited messages, to distribute malware, or to attempt to gain unauthorised access to systems. Where a project involves messaging or automation (for example WhatsApp or email), you are responsible for complying with the applicable platform rules, consent requirements, and data protection laws. We may decline or stop work that we reasonably believe is unlawful, abusive, or harmful."
+        ],
+        "items": [
+          "Use the website and services lawfully and in good faith.",
+          "Do not use our work for spam, malware, fraud, or unauthorised access.",
+          "Follow platform rules, consent norms, and data protection laws for any messaging or automation.",
+          "We may decline or stop work that is unlawful, abusive, or harmful."
+        ]
+      },
+      {
+        "title": "Portfolio Demo Sites",
+        "body": [
+          "Any examples explicitly labelled as demos or workspace previews are fictional illustrations of design and functionality. They are not real businesses or live client records. Sample names, products, payment records and other details are illustrative. Case studies are presented separately with their stated source and context. Nothing in a demo is an offer, an endorsement, or a representation about a real company or product."
+        ],
+        "items": [
+          "The demo sites published under /demos/ are illustrative builds with invented businesses and content.",
+          "A demo site does not create an account, a payment or a service booking, and is not an offer.",
+          "Published case studies describe real client work and are separate from the demo sites."
+        ]
+      },
+      {
+        "title": "Termination",
+        "body": [
+          "Either party may end a project for convenience by giving written notice. If you end a project, fees for work already completed up to that point remain payable, and cancellation is handled under our Cancellation Policy and, where applicable, our Refund Policy. We may end a project if you breach these terms, fail to clear due payments, or ask us to do something unlawful or unethical, and in that case fees for work done up to termination remain due. On any termination, sections that are meant to continue (such as ownership of paid-for work, confidentiality, liability, and indemnity) survive."
+        ],
+        "items": [
+          "Either party may terminate for convenience on written notice.",
+          "Fees for completed work up to termination remain payable.",
+          "We may terminate for breach, unpaid dues, or unlawful requests.",
+          "Cancellation and refunds are governed by our Cancellation Policy and Refund Policy.",
+          "Ownership, confidentiality, liability, and indemnity provisions survive termination."
+        ]
+      },
+      {
+        "title": "Force Majeure",
+        "body": [
+          "Neither party is liable for delays or failures caused by events beyond its reasonable control, such as natural disasters, fire, flood, epidemics, war, civil unrest, government action, power or internet failures, or major outages of third-party services. If such an event occurs, the affected party will let the other know, and any agreed timelines, including dates under the On-Time Promise, are paused for the duration of the event. If the event continues for a prolonged period, either party may discuss a fair adjustment or an orderly close-out of the project."
+        ],
+        "items": [
+          "Events beyond reasonable control excuse delay or non-performance for their duration.",
+          "Agreed timelines, including On-Time Promise dates, pause during such events.",
+          "The affected party will give notice as soon as it reasonably can.",
+          "A prolonged event may lead to a fair adjustment or orderly wind-down by agreement."
+        ]
+      },
+      {
+        "title": "Governing Law and Jurisdiction",
+        "body": [
+          "These Terms and Conditions, and any dispute or claim arising out of or in connection with them or with our services, are governed by and construed in accordance with the laws of India. The courts at Mumbai, Maharashtra have exclusive jurisdiction over any such dispute or claim. Before going to court, both parties agree to first try, in good faith, to resolve any disagreement through direct discussion."
+        ],
+        "items": [
+          "These terms are governed by the laws of India.",
+          "The courts of Mumbai, Maharashtra have exclusive jurisdiction.",
+          "Both sides agree to attempt good-faith resolution by discussion first."
+        ]
+      },
+      {
+        "title": "Grievance Officer and Contact",
+        "body": [
+          "If you have any complaint, concern, or question about these terms or our services, please contact our Grievance Officer, who will acknowledge and address your concern within a reasonable time. We aim to resolve issues fairly and promptly."
+        ],
+        "items": [
+          "Grievance Officer: Compliance & Grievance Officer",
+          "Email: ash.zizi67@gmail.com",
+          "WhatsApp only: +91 96106 00593",
+          "Registered address: 48 Bad' Bint Sa'oud Street, Al Mushrif, Abu Dhabi, United Arab Emirates",
+          "Company: ASHZIZ, website https://ashziz.com"
+        ]
+      },
+      {
+        "title": "Changes to These Terms",
+        "body": [
+          "We may update these Terms and Conditions from time to time to reflect changes in our services, our practices, or the law. When we do, we will revise the date shown at the top of this page. Your continued use of the website or services after an update means you accept the revised terms. For any active project, the version of these terms in force when you accepted your proposal continues to apply to that project unless we both agree otherwise in writing."
+        ],
+        "items": [
+          "We may revise these terms and will update the date at the top of the page.",
+          "Continued use after an update means you accept the revised terms.",
+          "Active projects stay governed by the version accepted with the proposal, unless agreed otherwise.",
+          "Please review the Privacy Policy, Refund Policy, and Cancellation Policy alongside these terms."
+        ]
+      }
+    ]
+  },
+  "refund-policy": {
+    "label": "Refunds",
+    "title": "Refund Policy",
+    "updated": "2026-09-06",
+    "intro": [
+      "This Refund Policy explains how and when ASHZIZ (\"we\", \"us\", \"our\"), a registered private limited company in India, handles cancellations and refunds for our software and technology services, including websites, mobile apps, web apps, SaaS products, desktop software, AI and WhatsApp automation and related software services. We are honest about how digital work behaves: planning, research, design and development consume real effort the moment we begin, so what we can refund depends almost entirely on the stage your project has reached. This page sets out our stage-based approach in plain terms, so there are no surprises on either side. It should be read together with our Terms and Conditions, which govern ownership, milestones, scope and the wider engagement. All prices are quoted exclusive of 18% GST, which is added on the final invoice. Any approved refund is calculated on the amount actually received by us, net of GST already remitted to the government and any third-party costs already incurred on your behalf."
+    ],
+    "sections": [
+      {
+        "title": "Nature Of Digital Services And How Stage Affects Refunds",
+        "body": [
+          "Unlike a physical product that can be returned unused, a digital project consumes effort as soon as work starts. Discovery discussions, scoping, research, wireframes, design, code, configuration and content all represent hours that cannot be taken back. Because of this, our refunds are stage-based: the earlier you are in the process, the more we can return, and the further along we are, the less remains refundable. The fairest way to read this policy is simple: you are charged for the value already created, and you are eligible for a refund only on value not yet delivered."
+        ],
+        "items": [
+          "Refund eligibility is determined by the stage reached, not by a fixed percentage.",
+          "Time, research and creative effort already spent are treated as delivered value.",
+          "Third-party costs we have already paid on your behalf are not recoverable by us, so they cannot be refunded to you.",
+          "Where work is partly complete, we aim for a fair split rather than an all-or-nothing outcome."
+        ]
+      },
+      {
+        "title": "Cancelling An Engagement",
+        "body": [
+          "You may ask to cancel an engagement at any time by writing to us at ash.zizi67@gmail.com. We will confirm the stage your project has reached, what has already been delivered, and the refund position that follows from the stage-based rules in this policy. Cancellation does not by itself create a right to a full refund: it simply stops further work and fixes the point at which we assess what, if anything, is refundable."
+        ],
+        "items": [
+          "Write to ash.zizi67@gmail.com to request a cancellation.",
+          "We confirm the stage reached and the resulting refund position in writing.",
+          "Cancellation stops further work; it does not reverse value already delivered."
+        ]
+      },
+      {
+        "title": "Stage-Based Refund Eligibility",
+        "body": [
+          "We assess every refund request against the stage your engagement has reached at the moment we receive the request. As a guide, the points below reflect how we treat each stage. The exact stage and the corresponding amount are confirmed in writing when we respond to your request."
+        ],
+        "items": [
+          "Before kickoff (paid but no work started): most refundable, less only the payment-gateway charges and a reasonable administrative cost already incurred.",
+          "After discovery or design has started: partial refund only. The completed portion (research, scoping, wireframes, designs delivered for review) is not refundable; the unstarted portion may be.",
+          "After development has started: partial or non-refundable, depending on how much has been built. Completed and reviewable work is not refundable.",
+          "Delivered or handed over: non-refundable, because the deliverables, source files, code and credentials have already passed to you."
+        ]
+      },
+      {
+        "title": "Services Under a Written Project Agreement",
+        "body": [
+          "Every engagement is scoped and quoted in a written project agreement. Stage-based refund logic applies to the work agreed there, whether it is a website, app, software build or automation setup. Once delivery begins, the completed portion is not refundable; once the agreed work is delivered in full, it is non-refundable. If you cancel before any work begins, the amount paid is refundable less payment-gateway charges and any reasonable administrative cost already incurred."
+        ],
+        "items": [
+          "Before any work: refund of the amount paid, less gateway and administrative costs.",
+          "Partway through: refund limited to the clearly unstarted portion of the agreed work.",
+          "After full delivery: non-refundable."
+        ]
+      },
+      {
+        "title": "Custom And Milestone Projects",
+        "body": [
+          "Most of our larger projects are split into milestones written into your proposal: a booking amount to start, one or more progress payments, and a final payment before handover. The booking amount reserves your slot and funds the initial discovery and planning, so it is generally non-refundable once the project has kicked off. Each milestone is invoiced against work that has been completed and made available for your review, which means a completed milestone is not refundable. Refunds, where applicable, are considered only against amounts paid for milestones not yet started."
+        ],
+        "items": [
+          "The booking amount is non-refundable once we have kicked off the project.",
+          "Any milestone that is completed and submitted for review is not refundable.",
+          "A refund can only apply to a paid milestone whose work has not yet begun.",
+          "Full ownership, source files, code and account credentials transfer to you on final payment, as set out in our Terms and Conditions. There is no lock-in."
+        ]
+      },
+      {
+        "title": "Third-Party And Payment-Gateway Costs",
+        "body": [
+          "When we spend money with outside parties on your behalf, that money leaves our hands and cannot be recovered, so it cannot be refunded. This includes costs such as domains, hosting, paid plugins, themes, software licences, advertising spend, and similar third-party purchases. It also includes the fees charged by our payment gateway, Razorpay, on the original transaction. These amounts are deducted from any refund, or are treated as non-refundable, even where the rest of an engagement qualifies for a refund."
+        ],
+        "items": [
+          "Domains, hosting, paid plugins, themes and software licences already purchased.",
+          "Advertising and media spend already placed with platforms on your behalf.",
+          "Payment-gateway (Razorpay) fees on the original transaction.",
+          "Any 18% GST already remitted to the government on the original invoice."
+        ]
+      },
+      {
+        "title": "Monthly, Retainer And Subscription Services",
+        "body": [
+          "Some services run on a recurring basis, such as AI-agent and WhatsApp automation plans, support plans, and other monthly subscriptions. For these, the current billing cycle is not refundable once it has begun, because the work and capacity for that period are committed and largely consumed. You remain in control of future periods: you can cancel upcoming renewals at any time, and you will simply not be billed for cycles after the cancellation takes effect."
+        ],
+        "items": [
+          "The current paid cycle is not refundable once it has started.",
+          "Cancelling stops future renewals; it does not refund the running cycle.",
+          "To cancel, write to ash.zizi67@gmail.com before the next renewal date.",
+          "Any work already published or configured during a paid cycle remains in place."
+        ]
+      },
+      {
+        "title": "The On-Time Promise Is A Delivery Guarantee, Not A Refund",
+        "body": [
+          "Our On-Time Promise is a separate commitment and should not be confused with this Refund Policy. We agree a fixed delivery date in writing, and if we miss that date, 50% of the payment is waived. It applies to the agreed scope only, and the clock pauses for any period during which we are waiting on required content, assets, or approvals from you. The On-Time Promise is a guarantee about delivery timing, not a general right to a refund, and it operates independently of the stage-based rules above."
+        ],
+        "items": [
+          "It is triggered only if we miss a delivery date that was fixed in writing.",
+          "The remedy is a 50% waiver of the payment, not a cash refund of the project.",
+          "It covers the agreed scope only and pauses while we await your inputs or approvals."
+        ]
+      },
+      {
+        "title": "How To Request A Refund",
+        "body": [
+          "To request a refund, please write to us at ash.zizi67@gmail.com with the details we need to verify and assess your request. Clear information helps us respond quickly and fairly. You can also reach us on WhatsApp only at our official contact channels if you would like to discuss your situation before writing in."
+        ],
+        "items": [
+          "Your name and the company or project the payment relates to.",
+          "The payment reference or transaction ID, and the date and amount paid.",
+          "The agreed service and the milestone, if any.",
+          "A short reason for the refund request so we can assess the stage reached."
+        ]
+      },
+      {
+        "title": "Processing Time And Method",
+        "body": [
+          "Once a refund is approved, we calculate the eligible amount under the rules above, less any non-refundable third-party and gateway costs, and we return it to the original payment method used for the purchase, processed through our payment gateway, Razorpay. We do not store your full card, UPI or bank credentials on our servers; we hold only payment references, which is why refunds go back to the original source. Approved refunds are typically processed within 7-10 business days from approval, although the time for the amount to appear in your account depends on your bank or card issuer."
+        ],
+        "items": [
+          "Refunds are returned to the original payment method (UPI, bank transfer or card) via Razorpay.",
+          "We deduct any non-refundable gateway, GST and third-party costs already incurred.",
+          "Approved refunds are usually processed within 7-10 business days from approval.",
+          "Your bank or card issuer may add a few additional days before the credit appears."
+        ]
+      },
+      {
+        "title": "Chargebacks And Disputes",
+        "body": [
+          "If you believe something has gone wrong with a payment, please contact us first at ash.zizi67@gmail.com before raising a chargeback or dispute with your bank or card issuer. Most concerns can be resolved quickly and directly once we understand them. Raising a chargeback without contacting us can freeze a transaction and delay any resolution you may actually be entitled to, and it does not change the stage-based eligibility set out in this policy."
+        ],
+        "items": [
+          "Talk to us first: most issues are resolved faster directly than through a bank dispute.",
+          "A chargeback does not override the stage-based refund rules in this policy.",
+          "We will cooperate in good faith to document and resolve any genuine dispute."
+        ]
+      },
+      {
+        "title": "Grievance Officer, Contact And Governing Law",
+        "body": [
+          "This Refund Policy works alongside our Terms and Conditions, which govern ownership, milestones, scope and the wider engagement. If you have a concern that is not resolved through normal support, you may contact our Grievance Officer, Compliance & Grievance Officer, at ash.zizi67@gmail.com. This policy is governed by the laws of India, and the courts of Mumbai, Maharashtra have exclusive jurisdiction over any dispute relating to it."
+        ],
+        "items": [
+          "Grievance Officer: Compliance & Grievance Officer, ash.zizi67@gmail.com.",
+          "Registered office: ASHZIZ Studio.",
+          "WhatsApp only: +91 96106 00593. Website: https://ashziz.com.",
+          "Governing law: India. Exclusive jurisdiction: courts of Mumbai, Maharashtra."
+        ]
+      }
+    ]
+  },
+  "cancellation-policy": {
+    "label": "Cancellation",
+    "title": "Cancellation Policy",
+    "updated": "2026-09-06",
+    "intro": [
+      "This Cancellation Policy explains how you can cancel an order, project or subscription with ASHZIZ (\"we\", \"us\", \"our\"), a private limited company registered in India, and what happens to your payments, work in progress, and deliverables once a cancellation takes effect. It should be read together with our Refund Policy, which sets out exact refund amounts, and our Terms and Conditions; the three documents work as one. Our position is simple and honest: the earlier you tell us, the cleaner and less costly the cancellation, and you only ever pay for work that has actually been done and for resources we have already committed on your behalf. All prices referenced are exclusive of 18% GST, which is added on the final invoice, and we issue a proper GST invoice. This policy is governed by the laws of India, with exclusive jurisdiction in the courts of Mumbai, Maharashtra."
+    ],
+    "sections": [
+      {
+        "title": "How to Request a Cancellation",
+        "body": [
+          "To cancel, please send us your request in writing so that we have a clear record and can act on it quickly. Email ash.zizi67@gmail.com or message us on WhatsApp at +91 96106 00593, and include your order or payment reference (the invoice number or the Razorpay payment reference) along with the name of the project or service. We will acknowledge your request, confirm the effective date of the cancellation, and tell you in writing what has been completed and what, if anything, is payable or refundable under our Refund Policy."
+        ],
+        "items": [
+          "Send the request in writing by email or WhatsApp.",
+          "Quote your order or payment reference and the project or service name.",
+          "The cancellation takes effect from the date we receive your written request, not before."
+        ]
+      },
+      {
+        "title": "Cancellation Before Any Work Begins",
+        "body": [
+          "This is the cleanest case. If you cancel after booking but before we have started any work on your project, you receive a refund of the amount paid, less the third-party payment gateway charges (Razorpay) and a small, non-recoverable administrative cost, both of which cannot be reclaimed once a payment has been processed. The exact figures and deductions are set out in our Refund Policy, and we keep the logic consistent across both documents. Where applicable, we will issue a revised GST invoice to reflect the adjusted amount."
+        ],
+        "items": []
+      },
+      {
+        "title": "Cancellation After Work Has Started",
+        "body": [
+          "Once work is underway, charges apply for the work completed and the resources committed up to the date of your written cancellation request. This covers design, development, content, any third-party licences or tools purchased for your project, and the time our team has already spent. We will share a short written breakdown of what has been done. Any balance is then handled in line with our Refund Policy: if you have paid more than the value of the work done, the difference (less gateway and administrative costs) is refunded; if the work done exceeds what you have paid, the shortfall is invoiced to you, with GST added."
+        ],
+        "items": []
+      },
+      {
+        "title": "Custom Milestone Projects",
+        "body": [
+          "Settlement follows the milestone structure recorded in your written proposal before work starts: the agreed advance, any progress payments and final payment before handover. Completed and accepted milestones are payable in full, and a milestone in progress is charged on a pro-rata basis for the work actually done."
+        ],
+        "items": [
+          "Completed milestones are payable in full.",
+          "An in-progress milestone is pro-rated for work actually done.",
+          "The payment split that applies is the one recorded in your signed proposal."
+        ]
+      },
+      {
+        "title": "Subscription, Retainer, and Recurring Services",
+        "body": [
+          "For recurring services such as support and maintenance plans, and the monthly running cost of AI agents and WhatsApp automation, you may cancel with at least 30 days' written notice. The current paid cycle continues and is honoured to the end of its term, so you keep the service you have already paid for, and there is simply no further renewal after that. Because these are ongoing services delivered during the paid period, fees for the current cycle are not refundable. We will confirm your final service date in writing."
+        ],
+        "items": [
+          "Give at least 30 days' written notice to cancel a recurring plan.",
+          "The current paid cycle runs to its natural end, with no auto-renewal afterwards.",
+          "Fees for a cycle already in progress are not refunded, as the service is being provided."
+        ]
+      },
+      {
+        "title": "Work in Progress, Deliverables, Files, and IP",
+        "body": [
+          "Full ownership of your project, including the source files, code, and all account credentials, transfers to you only on receipt of the final payment, exactly as stated in our Terms and Conditions. On a cancellation where the project is not paid in full, ownership of the unpaid work does not pass to you. For the portion you have actually paid for, we may, at our discretion and as a goodwill gesture, share the corresponding completed work or files so that the amount you paid is not wasted. Until full settlement, we retain our intellectual property rights in any incomplete or unpaid deliverables."
+        ],
+        "items": [
+          "Ownership, source files, code, and credentials transfer only on final payment.",
+          "Partial work may be shared at our discretion, in proportion to what has been paid.",
+          "We retain IP in any deliverables that are incomplete or unpaid at the time of cancellation."
+        ]
+      },
+      {
+        "title": "Cancellation by ASHZIZ",
+        "body": [
+          "In limited situations we may need to cancel an engagement from our side: where a client breaches the Terms and Conditions, remains non-responsive for a prolonged period despite reminders so that we cannot continue, or fails to make a payment that is due. In such cases we will give written notice and, where the situation allows, a reasonable opportunity to put things right first. On a cancellation by us, you remain liable for the work completed and the resources committed up to that point, and any settlement (a refund or a balance due) is calculated using the same logic as a client-initiated cancellation under our Refund Policy."
+        ],
+        "items": []
+      },
+      {
+        "title": "Effect on the On-Time Promise",
+        "body": [
+          "Our On-Time Promise is a delivery guarantee, not a refund or cancellation mechanism. Where we agree a fixed delivery date in writing and we miss it for the agreed scope, 50% of the payment is waived. If you cancel a project before that agreed delivery date is reached, the On-Time Promise does not come into play, because there has been no missed deadline to trigger it. The promise also pauses for any period in which required content, assets, or approvals are awaited from you, so delays on the client side do not create a waiver and do not change how a cancellation is settled."
+        ],
+        "items": []
+      },
+      {
+        "title": "Contact and Grievance Details",
+        "body": [
+          "For any cancellation request, question, or concern about this policy, please contact us using the details below. If you are not satisfied with how a cancellation has been handled, you may escalate to our Grievance Officer, who will look into the matter and respond. This policy should be read together with our Refund Policy and Terms and Conditions, and it is governed by the laws of India, with exclusive jurisdiction in the courts of Mumbai, Maharashtra."
+        ],
+        "items": [
+          "Company: ASHZIZ, ASHZIZ Studio",
+          "Email: ash.zizi67@gmail.com · WhatsApp only: +91 96106 00593 · Website: https://ashziz.com",
+          "Grievance Officer: Compliance & Grievance Officer (ash.zizi67@gmail.com)"
+        ]
+      }
+    ]
+  },
+  "disclaimer": {
+    "label": "Disclaimer",
+    "title": "Disclaimer",
+    "updated": "2026-09-06",
+    "intro": [
+      "This Disclaimer governs your use of the ashziz.com website and the information, demos and materials we publish there. ASHZIZ (\"we\", \"us\", \"our\") is a registered private limited company in India offering software and technology services, including websites, mobile apps, web apps, SaaS products, desktop software, AI and WhatsApp automation and related software services. The content on this website is provided in good faith for general information about who we are and what we do. It does not constitute professional advice, a binding offer, or any promise of specific results. Please read this Disclaimer together with our Terms and Conditions, our Privacy Policy and our Cancellation and Refund Policy, which together describe the basis on which we engage with you. If anything here is unclear, you are welcome to contact us before relying on any information on the site."
+    ],
+    "sections": [
+      {
+        "title": "General Information Only",
+        "body": [
+          "Everything published on ashziz.com is for general information about our company, our services, our pricing approach and our work. It is not a substitute for a written proposal, contract or professional consultation, and it should not be treated as the final, agreed terms of any project. Where a service is actually engaged, the specific scope, price and timeline are confirmed separately in a written proposal that you approve before work begins."
+        ],
+        "items": [
+          "Website content describes our services in general terms and may be simplified for clarity.",
+          "The binding terms of any project are those set out in your signed proposal and our Terms and Conditions, not in marketing copy.",
+          "Information can change over time and may not reflect our most recent practices on the day you read it."
+        ]
+      },
+      {
+        "title": "No Professional or Technical Advice",
+        "body": [
+          "Articles, blog posts, guides, pricing notes and other materials on this website are educational and general in nature. They do not constitute legal, financial, tax, compliance, security or other professional advice, and they are not tailored to your specific circumstances. Before acting on anything you read here, you should obtain advice from your own qualified advisers (for example a chartered accountant, company secretary, lawyer or security professional) who can assess your particular situation."
+        ],
+        "items": [
+          "Do not rely on our general content as professional advice for your business.",
+          "Technical suggestions on the site are illustrative and may not suit your exact environment.",
+          "We are not liable for decisions you take based on general information published here."
+        ]
+      },
+      {
+        "title": "No Guarantee of Business Results",
+        "body": [
+          "We build quality software and carry out the agreed digital work, and we put real care into delivery. However, we do not and cannot guarantee specific business outcomes. Results such as sales, revenue, leads, conversions, traffic, app downloads or user growth depend on many factors that are outside our control, including your market, pricing, product, operations, budget, competition, timing and how the deliverables are used after handover."
+        ],
+        "items": [
+          "We commit to the agreed scope and quality of build, not to a particular commercial result.",
+          "Any figures, projections or examples shown are illustrative and not promises.",
+          "Outcomes after handover depend significantly on how you operate and maintain the work."
+        ]
+      },
+      {
+        "title": "Search Engines: No Ranking Guarantee",
+        "body": [
+          "Search visibility is not a guarantee of any particular position. We do not promise a number one ranking, a specific Google position, a fixed amount of traffic, or placement for any keyword. Google and other platforms control their algorithms, indexing and policies, and these change over time. Educational articles about search and historical examples of work should not be read as an offer of an ongoing SEO service or as a guaranteed result."
+        ],
+        "items": [
+          "No guarantee of a specific Google ranking, position or keyword placement.",
+          "Search engines and platforms control their own algorithms and policies.",
+          "General guidance and historical examples do not promise future results."
+        ]
+      },
+      {
+        "title": "Your Written Project Quote",
+        "body": [
+          "The website publishes no package prices or rate cards. Start with an enquiry and planning budget, then discuss the project with us on WhatsApp. We confirm the scope, price, advance, milestones and dates in writing. After the advance is received and verified, your account is linked to the project workspace, where invoices, payments and the agreed timeline can be followed through delivery and settlement. The agreed price is quoted in Indian rupees and is exclusive of 18% GST, which is added on the final invoice. We issue a proper GST invoice. On final payment we hand over ownership, source files, code and relevant account credentials under the written agreement."
+        ],
+        "items": [
+          "Your confirmed price, advance, milestones and dates appear in your written proposal.",
+          "Quoted amounts are exclusive of 18% GST.",
+          "GSTIN: .",
+          "The delivery promise does not set a mandatory advance percentage."
+        ]
+      },
+      {
+        "title": "Payments and Payment Security",
+        "body": [
+          "Payments are accepted via UPI, bank transfer (NEFT or IMPS) and cards, and are processed securely through a third-party payment gateway (Razorpay). When you pay online, your payment details are handled by the gateway under its own security standards. We do not store your full card, UPI or bank credentials on our servers; we keep only payment references needed to identify and reconcile your transaction."
+        ],
+        "items": [
+          "Accepted methods: UPI, bank transfer (NEFT or IMPS) and cards.",
+          "Online payments are processed by Razorpay, a third-party payment gateway, under its own terms and security standards.",
+          "We do not store full card, UPI or bank credentials on our servers; we retain only payment references."
+        ]
+      },
+      {
+        "title": "Cancellation and Refunds",
+        "body": [
+          "This Disclaimer is not our refund policy. Cancellations and refunds are governed by your written proposal, our Terms and Conditions and our separate Cancellation and Refund Policy. As a general position, work already completed and any third-party costs we have already incurred on your behalf (for example hosting, domains, licences or gateway charges) are non-refundable, and the booking amount secures your slot and start date. If you wish to cancel, please contact us in writing and we will confirm the position for your specific milestone in line with your proposal. Refunds, where due, are made to the original payment method through the payment gateway within a reasonable period."
+        ],
+        "items": [
+          "Cancellation and refund terms are set out in your proposal and our Cancellation and Refund Policy, not in this Disclaimer.",
+          "Completed work and third-party costs already incurred (hosting, domains, licences, gateway charges) are non-refundable.",
+          "To request a cancellation, contact us in writing using the details below; refunds, where due, go back to the original payment method.",
+          "The On-Time Promise is a delivery guarantee and a waiver against the agreed payment, not a refund mechanism."
+        ]
+      },
+      {
+        "title": "On-Time Promise: A Delivery Guarantee, Not a Refund",
+        "body": [
+          "Our On-Time Promise means we agree a fixed delivery date in writing, and if we miss it, 50% of the payment is waived. To keep this fair, it applies to the agreed scope only. If you delay required content, assets, approvals or feedback, the clock pauses for that period and resumes once we have what we need. This is a delivery commitment, not a general refund mechanism, and it does not override the other terms in your proposal or our Terms and Conditions."
+        ],
+        "items": [
+          "The promise covers the scope agreed in writing, on the date agreed in writing.",
+          "Client-side delays (content, assets, approvals) pause the delivery clock.",
+          "It is a waiver against the agreed payment, not a refund or a guarantee of results."
+        ]
+      },
+      {
+        "title": "Portfolio Demo Sites Are Illustrative",
+        "body": [
+          "The portfolio demo sites published under /demos/ are illustrative builds made to show design and build quality. The businesses, names and content in them are invented and do not represent real customers or real offers. They are excluded from search indexing. The client workspace and the owner's tools are live services, not demonstrations: what they show is your own project record."
+        ],
+        "items": [
+          "Demo brands and records are illustrative.",
+          "A demo does not create an account, send a payment or book a service.",
+          "Any resemblance between demo records and a real business is coincidental."
+        ]
+      },
+      {
+        "title": "Testimonials and Examples",
+        "body": [
+          "Any testimonials, case studies, past projects or examples shown on this website reflect particular situations and are shared to illustrate the kind of work we do. They are not a promise or prediction that you will achieve the same or similar results. Your experience and outcomes will depend on your own project, scope, market and circumstances. Examples are provided for context only and should not be read as guarantees."
+        ],
+        "items": [
+          "Past results do not guarantee future or similar results for you.",
+          "Examples are shared to illustrate capability, not to promise outcomes."
+        ]
+      },
+      {
+        "title": "Third-Party Links, Tools and Services",
+        "body": [
+          "Our website and our deliverables may reference or rely on third-party websites, tools and services, including the payment gateway (Razorpay), hosting providers, domain registrars, analytics, AI and messaging platforms, app stores. We do not control these third parties and are not responsible for their content, availability, security, pricing, policies or practices. Your use of any third-party service is governed by that provider's own terms and privacy policy, which we encourage you to review."
+        ],
+        "items": [
+          "Links to external sites are provided for convenience and are not endorsements.",
+          "Third-party platforms set their own terms, fees, uptime and policies.",
+          "We are not liable for outages, changes or losses caused by third-party services."
+        ]
+      },
+      {
+        "title": "Accuracy, Errors and Omissions",
+        "body": [
+          "We try to keep the information on this website current and correct, but we make no warranty, express or implied, that the content is complete, accurate or up to date. The website may contain typographical errors, inaccuracies or outdated information, and we may change, correct, add to or remove content at any time without prior notice. We are not obliged to update any particular piece of content, and you should not assume that everything shown reflects our latest position."
+        ],
+        "items": [
+          "Content is provided on an 'as is' and 'as available' basis.",
+          "We may update or change information on the site without notice.",
+          "If something on the site looks inconsistent or out of date, please contact us to confirm."
+        ]
+      },
+      {
+        "title": "Use at Your Own Risk and Limitation of Liability",
+        "body": [
+          "You use this website and rely on its content at your own risk. To the maximum extent permitted by applicable Indian law, ASHZIZ and its directors, officers and employees are not liable for any loss or damage (including indirect, incidental, special or consequential loss, or loss of profit, revenue, data or goodwill) arising from your use of, or inability to use, this website or from reliance on its general information. Nothing in this Disclaimer limits any liability that cannot be excluded under applicable law, and this Disclaimer does not affect the specific contractual terms agreed in your proposal and our Terms and Conditions. This Disclaimer is governed by the laws of India, and the courts of Mumbai, Maharashtra have exclusive jurisdiction over any dispute relating to it."
+        ],
+        "items": [
+          "Reliance on website content is at your own risk.",
+          "Liability for general website information is limited to the extent the law allows.",
+          "Governing law: India. Exclusive jurisdiction: courts of Mumbai, Maharashtra."
+        ]
+      },
+      {
+        "title": "Changes to This Disclaimer",
+        "body": [
+          "We may update this Disclaimer from time to time to reflect changes in our services, our website or applicable law. The current version is the one published on this page, and the date shown above indicates when it was last updated. Your continued use of the website after any update means you accept the revised Disclaimer, so please check this page periodically."
+        ],
+        "items": [
+          "The version on this page is the current one; the date above shows the last update.",
+          "Continued use of the site after an update means you accept the revised Disclaimer."
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "body": [
+          "If you have any questions about this Disclaimer, or you believe any information on this website is incorrect or out of date, please contact us and we will be glad to help. For formal grievances, you may reach our Grievance Officer, Compliance & Grievance Officer, using the details below. Please also read this Disclaimer alongside our Terms and Conditions, our Privacy Policy and our Cancellation and Refund Policy."
+        ],
+        "items": [
+          "Company: ASHZIZ",
+          "Registered address: 48 Bad' Bint Sa'oud Street, Al Mushrif, Abu Dhabi, United Arab Emirates",
+          "Email: ash.zizi67@gmail.com",
+          "WhatsApp only: +91 96106 00593",
+          "Website: https://ashziz.com",
+          "Grievance Officer: Compliance & Grievance Officer (ash.zizi67@gmail.com)"
+        ]
+      }
+    ]
+  },
+  "delivery-policy": {
+    "label": "Delivery",
+    "title": "Delivery Policy",
+    "updated": "2026-09-06",
+    "intro": [
+      "How ASHZIZ plans to deliver websites, apps, SaaS builds, desktop tools, AI agents, files, and support handoffs."
+    ],
+    "sections": [
+      {
+        "title": "Delivery Channels",
+        "body": [
+          "Deliverables may be shared through dashboard links, email, cloud folders, private download links, repositories, or deployment URLs."
+        ],
+        "items": [
+          "Website URLs",
+          "APK/EXE/ZIP files",
+          "Documentation",
+          "Invoices"
+        ]
+      },
+      {
+        "title": "Timelines",
+        "body": [
+          "Start with an enquiry and planning budget, then discuss the project with us on WhatsApp. We confirm the scope, price, advance, milestones and dates in writing. After the advance is received and verified, your account is linked to the project workspace, where invoices, payments and the agreed timeline can be followed through delivery and settlement. Timelines depend on requirements, content readiness, approvals, integrations and revision cycles. The accepted written proposal records the delivery date and milestones; the website does not automatically confirm a start date."
+        ],
+        "items": [
+          "Scope, dependencies, start date and milestones are agreed in writing.",
+          "Project access follows receipt and verification of the agreed advance.",
+          "Read the delivery promise together with the timeline terms in your proposal."
+        ]
+      },
+      {
+        "title": "Client Inputs",
+        "body": [
+          "Delivery may be delayed if required assets, approvals, access, or clarifications are not provided on time."
+        ],
+        "items": [
+          "Logo and brand assets",
+          "Content and images",
+          "Hosting or platform access",
+          "Feedback approvals"
+        ]
+      },
+      {
+        "title": "Post Delivery",
+        "body": [
+          "After delivery, support, maintenance, edits, hosting, publishing, or new features may require a separate support plan or quote."
+        ],
+        "items": [
+          "Warranty windows must be proposal-defined",
+          "New scope is handled separately"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+# ASHZIZ Robots Configuration
+User-agent: *
+Allow: /
+Disallow: /api/
+
+Sitemap: https://ashziz.com/sitemap.xml
+

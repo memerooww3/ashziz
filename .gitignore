@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Environment files (NEVER commit secrets or API keys)
+.env
+.env.*
+!.env.example
+
+# Production build output
+dist/
+
+# Scratch & QA temporary captures
+scratch/
+
+# Large media & reference videos (prevents GitHub 100MB limit rejection)
+*.mp4
+
+# Editor, IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
