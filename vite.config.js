@@ -17,6 +17,13 @@ function copyStaticAssetsPlugin() {
         fs.cpSync(srcAssets, destAssets, { recursive: true });
       }
 
+      // Copy vendor libraries & DRACO wasm/decoder files into dist/vendor
+      const srcVendor = path.resolve('vendor');
+      const destVendor = path.join(outDir, 'vendor');
+      if (fs.existsSync(srcVendor)) {
+        fs.cpSync(srcVendor, destVendor, { recursive: true });
+      }
+
       // Copy static metadata, robots, and public media into dist root
       for (const file of ['legal.json', 'white.jpg', 'robots.txt']) {
         const srcFile = path.resolve(file);

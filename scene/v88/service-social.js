@@ -109,7 +109,7 @@ export function createSocialService(ctx) {
         faceMaterial.map=map;faceMaterial.needsUpdate=true;
       });
     }
-    loader.load(`/assets/social/${brand.file}.svg`,data=>{
+    const buildLogoFromData = data => {
       const paths=data.paths;const groupShape=new THREE.Group();
       for(const p of paths) {
         const shapes=SVGLoader.createShapes(p);
@@ -158,10 +158,20 @@ export function createSocialService(ctx) {
         for(let j=0;j<uv.count;j++)uv.setXY(j,pos.getX(j)/.35+.5,pos.getY(j)/.35+.5);
         child.geometry=g;child.position.z=.108;split(child,3,3,group,false);
       }
-      resolve();return true;
-    },undefined,reject);
+      resolve();
+    };
+
+    const primaryUrl = `/assets/social/${brand.file}.svg`;
+    loader.load(primaryUrl, buildLogoFromData, undefined, err => {
+      if (brand.id === 'gmb') {
+        loader.load('/assets/social/google-maps-outline.svg', buildLogoFromData, undefined, () => resolve());
+      } else {
+        console.warn(`[Social] Could not load ${primaryUrl}:`, err);
+        resolve();
+      }
+    });
   }));
-  Promise.all(loads).then(()=>{svc.ready=true;ctx.onReady?.(svc);}).catch(error=>console.error('Social logo load failed',error));
+  Promise.all(loads).then(()=>{svc.ready=true;ctx.onReady?.(svc);}).catch(error=>{svc.ready=true;ctx.onReady?.(svc);console.error('Social logo load failed',error);});
 
   const identity=new THREE.Quaternion(),localPoint=new THREE.Vector3();let hoverMix=0;
   return {svc,name:'social',label:'Explore our channels',root,pickables,get ready(){return svc.ready;},

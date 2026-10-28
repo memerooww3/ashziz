@@ -1311,7 +1311,7 @@ function loadRest() {
   // the social tiles are the last stop and the heaviest to build (extruded, fractured logos): they are built once
   // Tap to enter is showing, while the visitor reads it, so they never hold the loader up
   const buildSocial = () => { if (!SVC.social) SVC.social = createSocialService({ ...ctx, stage: STAGES.social }); };
-  if (gateShown || !Q.has('hd')) buildSocial(); else addEventListener('3am-gate', buildSocial, { once: true });
+  buildSocial();
 }
 const warmRT = new THREE.WebGLRenderTarget(64, 64);
 // ---------------------------------------------------------------- GPU warm-up, in small slices
@@ -1497,6 +1497,9 @@ gltf.load(`assets/${BRAIN}.glb?${BRAIN_VERSION}`, g => {
   // its shader compilation. Both complete beneath the opaque HD loader.
   if (Q.has('hd')) loadRest();
   requestAnimationFrame(() => { brain.updateMatrixWorld(true); centerBrain(); });
+}, undefined, err => {
+  console.error('[Brain GLTF Load Error]:', err);
+  start();
 });
 // The HD brain's pieces are cut differently from the earlier brain's, so the questions are laid over them again:
 // every piece carries one, the front of the brain (as the hero camera sees it) gets them in order, and the list
@@ -2438,7 +2441,7 @@ const leadEl = document.getElementById('lead'), leadForm = leadEl.querySelector(
 const svcBox = document.getElementById('lead-service'), waBtn = document.getElementById('lead-wa');
 const budField = leadForm.querySelector('.lead-budget'), budRange = document.getElementById('lead-range'), budOut = document.getElementById('lead-bud-out');
 const leadErr = leadForm.querySelector('.lead-err'), leadSuccess = leadForm.querySelector('.lead-success');
-let leadOpen = false, leadService = 'website', leadBudget = null, lastFocus = null;
+let leadOpen = false, leadService = 'website', leadBudget = null, lastFocus = null, leadOpenTime = 0;
 function chips(box, items, onPick) {
   box.setAttribute('role', 'radiogroup');
   box.innerHTML = items.map(([v, label]) => `<button type="button" class="chip" role="radio" aria-checked="false" data-v="${v}">${label}</button>`).join('');
@@ -2472,6 +2475,7 @@ leadForm.name.addEventListener('input', () => { updateWa(); leadForm.name.closes
 leadForm.phone.addEventListener('input', () => { leadForm.phone.value = leadForm.phone.value.replace(/\D/g, '').slice(0, 10); leadForm.phone.closest('.field').classList.remove('bad'); });
 setBudget(null);
 function openLead(service = 'website') {
+  leadOpenTime = Date.now();
   if (service === 'location') { openVisit(); return; }
   if (service === 'social') { openSocial(); return; }
   leadService = SERVICES.some(s => s[0] === service) ? service : 'website';
@@ -2667,28 +2671,33 @@ leadForm.addEventListener('submit', async e => {
 
   const checks = [
     [leadForm.name, isNameOk, 'Please add your name.'],
-    [leadForm.phone, isPhoneOk, 'Enter a valid contact phone number.'],
-    [leadForm.budget, isBudgetOk, 'Set a budget between ₹11,000 and ₹1 crore.'],
+    [leadForm.phone, isPhoneOk, 'Enter a valid contact phone number (10 digits).'],
+    [leadForm.budget, isBudgetOk, 'Please select or set an estimated budget.'],
     [leadForm.description, isIdeaOk, 'Please write 2–3 lines about your project.'],
   ];
 
   let hasError = false;
   let firstBad = null;
-  checks.forEach(([el, ok]) => {
+  let firstErrorMsg = '';
+  checks.forEach(([el, ok, msg]) => {
     const container = el.closest('.field, .lead-budget');
     if (container) container.classList.toggle('bad', !ok);
     if (!ok && !firstBad) {
       firstBad = el;
+      firstErrorMsg = msg;
       hasError = true;
     }
   });
 
-  if (!isServiceOk) hasError = true;
+  if (!isServiceOk) {
+    hasError = true;
+    if (!firstErrorMsg) firstErrorMsg = 'Please select a service.';
+  }
 
   // If validation fails: STOP immediately. Never show success.
   if (hasError) {
     setSuccessState(false);
-    setErrorState(true, 'Please fill in all required fields marked above.');
+    setErrorState(true, firstErrorMsg || 'Please fill in all required fields marked above.');
     if (firstBad) firstBad.focus();
     return;
   }
@@ -2701,7 +2710,7 @@ leadForm.addEventListener('submit', async e => {
     budget: leadBudget,
     idea,
     company_website: honeypotVal,
-    ts: leadOpenTime || Date.now(),
+    ts: leadOpenTime || (Date.now() - 5000),
     source: 'ashziz.com',
     submittedAt: new Date().toISOString(),
   };

@@ -45,6 +45,15 @@
       ]
     },
     {
+      "source": "/vendor/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    },
+    {
       "source": "/(legal\\.json|white\\.jpg|robots\\.txt)",
       "headers": [
         {

@@ -242,10 +242,10 @@ export default async function handler(req, res) {
     });
   }
 
-  // Anti-bot timing check: Submissions under 1.2s indicate automated headless bots
+  // Anti-bot timing check: Submissions under 800ms indicate automated headless bots
   if (body.ts && typeof body.ts === 'number') {
     const elapsedMs = Date.now() - body.ts;
-    if (elapsedMs > 0 && elapsedMs < 1200) {
+    if (elapsedMs > 0 && elapsedMs < 800) {
       return sendResponse(res, 200, {
         ok: true,
         message: 'Enquiry sent successfully!',
